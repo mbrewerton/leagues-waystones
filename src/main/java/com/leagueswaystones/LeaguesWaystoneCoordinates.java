@@ -1,6 +1,5 @@
 package com.leagueswaystones;
 
-import net.runelite.api.WorldMapManager;
 import net.runelite.api.coords.WorldPoint;
 import net.runelite.client.ui.overlay.worldmap.WorldMapPoint;
 import net.runelite.client.util.ImageUtil;
@@ -11,7 +10,7 @@ public enum LeaguesWaystoneCoordinates {
     WAYSTONE_ARDOUGNE(2679, 3302, 0, "Ardougne"),
     WAYSTONE_ALKHARID(3296, 3183, 0, "Al Kharid"),
     WAYSTONE_BRIMHAVEN(2805, 3186, 0, "Brimhaven"),
-//    WAYSTONE_CANIFIS(3233, 3222, 0, "Canifis"), // TODO Get Coordinates
+    WAYSTONE_CANIFIS(3498, 3489, 0, "Canifis"),
     WAYSTONE_CATHERBY(2778, 3434, 0, "Catherby"),
     WAYSTONE_FALADOR(2968, 3385, 0, "Falador"),
     WAYSTONE_FEROX_ENCLAVE(3147, 3638, 0, "Ferox Enclave"),
